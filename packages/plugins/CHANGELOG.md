@@ -1,5 +1,16 @@
 # @alita/plugins
 
+## 3.0.0-beta.18
+
+### Patch Changes
+
+- [#273](https://github.com/alitajs/alita/pull/273) [`cf875ea`](https://github.com/alitajs/alita/commit/cf875ea268406dd58c4f72d12a9306748180bc5b) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - fix: antd icons no find
+
+* [#272](https://github.com/alitajs/alita/pull/272) [`0d0503a`](https://github.com/alitajs/alita/commit/0d0503a8bd808e70c1734c47efffa86bcf0b0533) Thanks [@xiaohuoni](https://github.com/xiaohuoni)! - fix: mainpath path error
+
+* Updated dependencies [[`00a64ba`](https://github.com/alitajs/alita/commit/00a64bada0190897f1f9c8fa83407fa5ac7bcc4f)]:
+  - alita@3.0.0-beta.16
+
 ## 3.0.0-beta.17
 
 ### Patch Changes
